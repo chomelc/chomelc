@@ -21,4 +21,27 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 ## :chart_with_upwards_trend: Some metrics
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+
+ Last Updated on 23/05/2022 09:30:19 UTC
 <!--END_SECTION:waka-->

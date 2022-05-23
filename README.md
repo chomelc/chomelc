@@ -16,6 +16,7 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 ## :open_file_folder: What I'm currently working on
 
 :computer: Broaden my front-end development skills by learning *Angular*.
+
 :open_book: Broaden my back-end development skills by taking *Scala* and *Ruby* courses.
 
 ## :chart_with_upwards_trend: Some metrics

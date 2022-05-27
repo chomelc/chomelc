@@ -1,7 +1,9 @@
 name: Waka Readme
 
 on:
-  push
+  push:
+    branches:
+      - main
   schedule:
     # runs every 6 hours
     - cron: "0 */6 * * *"

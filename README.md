@@ -26,18 +26,18 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-orange)
 
-**🐱 My GitHub Data** 
+**📊 My GitHub data** 
 
-> 🏆 282 Contributions in the Year 2022
+```text
+🏆 282 contributions in 2022
+
+📦 33.6 kB used in GitHub's storage 
+
+📜 9 Public Repositories 
  > 
-> 📦 33.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
+🔑 1 Private Repository 
+
+```
 **I'm a night 🦉** 
 
 ```text

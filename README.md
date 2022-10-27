@@ -24,14 +24,14 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 *:gear: Generated with my own [fork](https://github.com/chomelc/waka-readme-stats) of [Waka README Stats](https://github.com/anmol098/waka-readme-stats)*.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-orange)
 
 **📊 Global GitHub data** 
 
 ```text
 🏆 293 contributions in 2022
 
-📦 40.9 kB used in GitHub's storage 
+📦 41.0 kB used in GitHub's storage 
 
 📜 9 Public Repositories 
 

@@ -24,7 +24,7 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 *:gear: Generated with my own [fork](https://github.com/chomelc/waka-readme-stats) of [Waka README Stats](https://github.com/anmol098/waka-readme-stats)*.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-orange)
 
 **📊 Global GitHub data** 
 

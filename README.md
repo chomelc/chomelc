@@ -31,7 +31,7 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 ```text
 🏆 313 contributions in 2022
 
-📦 33.4 kB used in GitHub's storage 
+📦 33.5 kB used in GitHub's storage 
 
 📜 9 Public Repositories 
 

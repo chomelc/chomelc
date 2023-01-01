@@ -29,7 +29,7 @@ I'm Clémence! I'm a **Software Engineer** :computer:, looking to solve real-wor
 **📊 Global GitHub data** 
 
 ```text
-🏆 313 contributions in 2022
+🏆 0 contributions in 2023
 
 📦 33.5 kB used in GitHub's storage 
 

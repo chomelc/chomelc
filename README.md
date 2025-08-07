@@ -18,6 +18,12 @@ I'm also committed to making **open-source** more accessible and creating tools 
 [![📧 clemence.chomel@gmail.com](https://img.shields.io/badge/-clemence.chomel-c14438?style=flat&logo=gmail&logoColor=white)](mailto:clemence.chomel@gmail.com)
 
 <!-- GitHub Stats -->
+## 🐾 PawMel Projects
+
+- [PawMel](https://github.com/PawMelOfficiel/pawmel.com): Website for PawMel's multi-species pet-sitting services 🐶🐱🐭🦜🐟
+- [PawMelDev](https://github.com/PawMelOfficiel/dev.pawmel.com): Portfolio site showcasing PawMel's freelance software development activity 👩🏻‍💻
+
+<!-- GitHub Stats -->
 ## 📈 My GitHub Stats
 
 ![Clémence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chomelc&show_icons=true&count_private=true&hide_rank=true&hide=stars&theme=gruvbox)

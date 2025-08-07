@@ -16,3 +16,10 @@ I'm also committed to making **open-source** more accessible and creating tools 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clemencechomel/)
 [![📧 pawmelofficiel@gmail.com](https://img.shields.io/badge/-pawmelofficiel-c14438?style=flat&logo=gmail&logoColor=white)](mailto:pawmelofficiel@gmail.com)
 [![📧 clemence.chomel@gmail.com](https://img.shields.io/badge/-clemence.chomel-c14438?style=flat&logo=gmail&logoColor=white)](mailto:clemence.chomel@gmail.com)
+
+<!-- GitHub Stats -->
+## 📈 My GitHub Stats
+
+![Clémence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chomelc&show_icons=true&count_private=true&hide_rank=true&hide=stars&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chomelc&layout=compact&theme=gruvbox)
